@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   repository-projects: write
-  content: write
+  contents: write
 
 jobs:
   build:
